@@ -5,8 +5,6 @@ Creational patterns concern the process of object creation.
 Structural patterns deal with the composition of classes or objects.
 Behavioural patterns characterize the ways in which classes or objects interact and distribute responsibility.
 
-Behavioural class patterns use inheritance to describe algorithms and flow of control, whereas the behavioural object patterns describe how a group of objects cooperate to perform a task that no single object can carry out alone.
-
 # Creational Patterns
 Creational class patterns defer some part of object creation to subclasses, while creational object patterns defer it to another object.
 
@@ -46,3 +44,5 @@ Provides a unified interface to a set of interfaces in a subsystem by defining a
 ### Proxy: 
 Provides a surrogate or placeholder for another object to control access to it.
 
+
+Behavioural class patterns use inheritance to describe algorithms and flow of control, whereas the behavioural object patterns describe how a group of objects cooperate to perform a task that no single object can carry out alone.
